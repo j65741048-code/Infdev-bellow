@@ -767,7 +767,7 @@ jobs:
               "water_fog_color": 329011,
               "grass_color": 9551193
             },
-            "carvers": [],
+            "carvers": {},
             "features": [
               [], [], [], [], [], [],
               [
